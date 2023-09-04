@@ -29,13 +29,13 @@ class Question2 {
 
 }
 
-class Main {
-    public static void main(String[] args) {
-        System.out.println("hi");
-        Question2 dog1 = new Question2("Max", "American Bully");
-        Question2 dog2 = new Question2("Rocky", "Lab");
-        System.out.println(dog1.getName());
-        System.out.println(dog2.getName());
+// class Main {
+// public static void main(String[] args) {
+// System.out.println("hi");
+// Question2 dog1 = new Question2("Max", "American Bully");
+// Question2 dog2 = new Question2("Rocky", "Lab");
+// System.out.println(dog1.getName());
+// System.out.println(dog2.getName());
 
-    }
-}
+// }
+// }
