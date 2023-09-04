@@ -17,14 +17,16 @@ class Question1 {
 
 }
 
-class Main {
+// class Main {
 
-    public static void main(String[] args) {
+// public static void main(String[] args) {
 
-        Question1 p1 = new Question1("tushar", 23);
-        Question1 p2 = new Question1("rohit", 32);
-        p1.getDetails();
-        p2.getDetails();
-    }
+// Question1 p1 = new Question1("tushar", 23);
+// Question1 p2 = new Question1("rohit", 32);
+// System.out.println(p1.name);
+// p1.getDetails();
+// p2.getDetails();
 
-}
+// }
+
+// }
