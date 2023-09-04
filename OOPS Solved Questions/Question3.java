@@ -31,11 +31,11 @@ class Question3 {
 
 }
 
-class Main {
-    public static void main(String[] args) {
-        Question3 r1 = new Question3(20.0, 20.0);
-        Question3 r2 = new Question3(30.0, 30.0);
-        System.out.println(r1.getArea());
-        System.out.println(r2.getPerimeter());
-    }
-}
+// class Main {
+// public static void main(String[] args) {
+// Question3 r1 = new Question3(20.0, 20.0);
+// Question3 r2 = new Question3(30.0, 30.0);
+// System.out.println(r1.getArea());
+// System.out.println(r2.getPerimeter());
+// }
+// }
