@@ -53,19 +53,19 @@ class Question4 {
 
 }
 
-class Main {
-    public static void main(String[] args) {
-        Question4 book1 = new Question4("The Great Gatsby", "Scott Fitzgerald", 101);
-        Question4 book2 = new Question4("To Kill a Mockingbird", "Harper Lee", 102);
-        Question4.addbook(book1);
-        Question4.addbook(book2);
+// class Main {
+// public static void main(String[] args) {
+// Question4 book1 = new Question4("The Great Gatsby", "Scott Fitzgerald", 101);
+// Question4 book2 = new Question4("To Kill a Mockingbird", "Harper Lee", 102);
+// Question4.addbook(book1);
+// Question4.addbook(book2);
 
-        ArrayList<Question4> bookCollection = Question4.getCollections();
-        System.out.println("List of Books:");
+// ArrayList<Question4> bookCollection = Question4.getCollections();
+// System.out.println("List of Books:");
 
-        for (Question4 book : bookCollection) {
-            System.out.println(book.getISBN());
-        }
+// for (Question4 book : bookCollection) {
+// System.out.println(book.getISBN());
+// }
 
-    }
-}
+// }
+// }
